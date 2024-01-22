@@ -4,11 +4,9 @@ Filter Students
 
 Endpoint: POST /filter-students
 Description: Fetch students based on specified requirements.
-Get All Students
 
 Endpoint: GET /students
 Description: Fetch all students.
-Save Students
 
 Endpoint: POST /save-students
 Description: Save students.
