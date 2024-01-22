@@ -1,4 +1,4 @@
-REST API endpoints provided in my project.
+REST API endpoints are provided in my project.
 
 Filter Students
 
