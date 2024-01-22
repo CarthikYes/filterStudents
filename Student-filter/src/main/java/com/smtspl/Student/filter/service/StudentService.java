@@ -11,5 +11,5 @@ public interface StudentService {
 
    public Student saveStudent(Student student);
 
-    List<Student> fetchDepartmentList();
+    List<Student> fetchStudentList();
 }

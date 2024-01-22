@@ -20,8 +20,8 @@ public class StudentController {
         return studentService.saveStudent(student);
     }
     @GetMapping("/students")
-    public List<Student> fetchDepartmentList() {
-        return studentService.fetchDepartmentList();
+    public List<Student> fetchStudentList() {
+        return studentService.fetchStudentList();
 
     }
     @PostMapping("/filter-students")
